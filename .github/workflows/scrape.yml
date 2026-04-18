@@ -1,0 +1,143 @@
+name: 2026 Exam Scraper
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes, in UTC.
+  workflow_dispatch: # လက်ဖြင့်လည်း Run နိုင်သည်
+    inputs:
+      run_results:
+        description: Run the live 2026 result scraper
+        type: boolean
+        default: true
+      run_stats:
+        description: Run the live 2026 statistics scraper
+        type: boolean
+        default: true
+      run_questions:
+        description: Run the old-question scraper
+        type: boolean
+        default: false
+      write_empty_feed:
+        description: Clear stale result JSON by allowing an empty feed write
+        type: boolean
+        default: false
+      mirror_pdfs:
+        description: Mirror blocked PDFs into the repo when direct links are not public
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: exam-results-scraper
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    if: ${{ github.event_name == 'workflow_dispatch' || vars.SCRAPER_ENABLED != 'false' }}
+    runs-on: ubuntu-latest
+    env:
+      SOURCE_URL: https://2026.myanmarexam.org
+      # Current host certificate is expired. Remove this after the source renews TLS.
+      ALLOW_INSECURE_TLS: 'true'
+      YEAR: '2026'
+      VALIDATE_PDF_LINKS: 'true'
+      PDF_VALIDATION_CONCURRENCY: '8'
+      PDF_MIRROR_CONCURRENCY: '4'
+      REQUEST_TIMEOUT_MS: '120000'
+      SCRAPER_FAIL_ON_ERROR: 'true'
+      SCRAPE_SUMMARY_FILE: ${{ runner.temp }}/scrape-summary.json
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Resolve runtime flags
+        run: |
+          echo "WRITE_EMPTY_FEED=false" >> "$GITHUB_ENV"
+          echo "MIRROR_PDFS=true" >> "$GITHUB_ENV"
+          echo "RUN_RESULTS=true" >> "$GITHUB_ENV"
+          echo "RUN_STATS=true" >> "$GITHUB_ENV"
+          echo "RUN_QUESTIONS=false" >> "$GITHUB_ENV"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "WRITE_EMPTY_FEED=${{ github.event.inputs.write_empty_feed }}" >> "$GITHUB_ENV"
+            echo "MIRROR_PDFS=${{ github.event.inputs.mirror_pdfs }}" >> "$GITHUB_ENV"
+            echo "RUN_RESULTS=${{ github.event.inputs.run_results }}" >> "$GITHUB_ENV"
+            echo "RUN_STATS=${{ github.event.inputs.run_stats }}" >> "$GITHUB_ENV"
+            echo "RUN_QUESTIONS=${{ github.event.inputs.run_questions }}" >> "$GITHUB_ENV"
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        if: env.RUN_RESULTS == 'true'
+        run: npm run scrape:2026
+
+      - name: Run stats scraper
+        if: env.RUN_STATS == 'true'
+        run: npm run scrape:stats
+
+      - name: Build stats image reader data
+        if: env.RUN_STATS == 'true'
+        run: npm run build:image-stats
+
+      - name: Run questions scraper
+        if: env.RUN_QUESTIONS == 'true'
+        run: npm run scrape:questions
+
+      - name: Publish run summary
+        if: always()
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+
+          const summaryPath = process.env.SCRAPE_SUMMARY_FILE;
+          const outputPath = process.env.GITHUB_STEP_SUMMARY;
+
+          const lines = ['## Scrape Summary', ''];
+          lines.push(`- Run results: \`${process.env.RUN_RESULTS}\``);
+          lines.push(`- Run stats: \`${process.env.RUN_STATS}\``);
+          lines.push(`- Run questions: \`${process.env.RUN_QUESTIONS}\``);
+          lines.push('');
+
+          if (!summaryPath || !fs.existsSync(summaryPath)) {
+            lines.push('No result-summary file was produced.');
+            fs.appendFileSync(outputPath, `${lines.join('\n')}\n`);
+            process.exit(0);
+          }
+
+          const summary = JSON.parse(fs.readFileSync(summaryPath, 'utf8'));
+
+          lines.push(`- Status: \`${summary.status}\``);
+          lines.push(`- Reason: \`${summary.reason}\``);
+          lines.push(`- Year: \`${summary.year}\``);
+          lines.push(`- Pages visited: \`${summary.pagesVisited}\``);
+          lines.push(`- Result links saved: \`${summary.resultCount}\``);
+          lines.push(`- Mirrored PDFs written: \`${summary.mirroredCount}\``);
+          lines.push(`- Mirror candidates found: \`${summary.preparedMirrorCount}\``);
+          lines.push(`- Filtered inaccessible links: \`${summary.filteredCount}\``);
+          lines.push(`- Failed pages: \`${summary.failedPages}\``);
+          lines.push('');
+          lines.push(`Source: \`${summary.sourceUrl}\``);
+
+          fs.appendFileSync(outputPath, `${lines.join('\n')}\n`);
+          NODE
+
+      - name: Commit and push data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git commit -m "Update exam data"
+          git push

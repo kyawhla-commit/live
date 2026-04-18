@@ -1,0 +1,34 @@
+{
+  "name": "2026-exam-results",
+  "version": "1.0.0",
+  "description": "Scheduled scraper for Myanmar 2026 exam result PDFs with GitHub Pages mirroring.",
+  "main": "scripts/scraper.js",
+  "scripts": {
+    "scrape": "npm run scrape:2026",
+    "test": "node --test tests/*.test.js",
+    "export:split-repos": "node scripts/export-split-repos.js",
+    "build:image-stats": "IMAGE_DPI=144 IMAGE_QUALITY=80 IMAGE_FORMAT=webp STATS_IMAGE_CONCURRENCY=2 node scripts/stats-image-builder.js",
+    "build:image-pilot:all-archive": "npm run build:image-pilot:2025 && npm run build:image-pilot:2024 && npm run build:image-pilot:2023 && npm run build:image-pilot:2022",
+    "build:image-pilot:2025": "YEAR=2025 IMAGE_DPI=144 IMAGE_QUALITY=80 IMAGE_FORMAT=webp IMAGE_CONCURRENCY=2 node scripts/result-image-pilot.js",
+    "build:image-pilot:2024": "YEAR=2024 IMAGE_DPI=144 IMAGE_QUALITY=80 IMAGE_FORMAT=webp IMAGE_CONCURRENCY=2 node scripts/result-image-pilot.js",
+    "build:image-pilot:2023": "YEAR=2023 IMAGE_DPI=144 IMAGE_QUALITY=80 IMAGE_FORMAT=webp IMAGE_CONCURRENCY=2 node scripts/result-image-pilot.js",
+    "build:image-pilot:2022": "YEAR=2022 IMAGE_DPI=144 IMAGE_QUALITY=80 IMAGE_FORMAT=webp IMAGE_CONCURRENCY=2 node scripts/result-image-pilot.js",
+    "scrape:2026": "SOURCE_URL=https://2026.myanmarexam.org YEAR=2026 VALIDATE_PDF_LINKS=true MIRROR_PDFS=true ALLOW_INSECURE_TLS=true PDF_VALIDATION_CONCURRENCY=8 PDF_MIRROR_CONCURRENCY=4 REQUEST_TIMEOUT_MS=120000 node scripts/scraper.js",
+    "scrape:stats": "SOURCE_URL=https://2026.myanmarexam.org YEAR=2026 STATS_MIRROR_PDFS=true ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/stats-scraper.js",
+    "scrape:stats:2025": "SOURCE_URL=https://2025.myanmarexam.org YEAR=2025 STATS_MIRROR_PDFS=true ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/stats-scraper.js",
+    "scrape:archive:2025": "SOURCE_URL=https://2025.myanmarexam.org OUTPUT_FILE=data/archive/2025/all_results.json LATEST_FILE=data/archive/2025/latest.json REGIONS_DIR=data/archive/2025/regions PDF_MIRROR_DIR=data/archive/2025/pdfs YEAR=2025 VALIDATE_PDF_LINKS=true MIRROR_PDFS=true ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/scraper.js",
+    "scrape:archive:2024": "SOURCE_URL=https://2024.myanmarexam.org OUTPUT_FILE=data/archive/2024/all_results.json LATEST_FILE=data/archive/2024/latest.json REGIONS_DIR=data/archive/2024/regions PDF_MIRROR_DIR=data/archive/2024/pdfs YEAR=2024 VALIDATE_PDF_LINKS=true MIRROR_PDFS=true ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/scraper.js",
+    "scrape:archive:2023": "SOURCE_URL=https://2023.myanmarexam.org OUTPUT_FILE=data/archive/2023/all_results.json LATEST_FILE=data/archive/2023/latest.json REGIONS_DIR=data/archive/2023/regions PDF_MIRROR_DIR=data/archive/2023/pdfs YEAR=2023 VALIDATE_PDF_LINKS=true MIRROR_PDFS=true ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/scraper.js",
+    "scrape:archive:2022": "SOURCE_URL=https://2022.myanmarexam.org OUTPUT_FILE=data/archive/2022/all_results.json LATEST_FILE=data/archive/2022/latest.json REGIONS_DIR=data/archive/2022/regions PDF_MIRROR_DIR=data/archive/2022/pdfs YEAR=2022 VALIDATE_PDF_LINKS=true MIRROR_PDFS=true ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/scraper.js",
+    "scrape:2024": "SOURCE_URL=https://2024.myanmarexam.org OUTPUT_FILE=data/test_2024_results.json LATEST_FILE=data/test_2024_latest.json REGIONS_DIR=data/test_2024_regions YEAR=2024 ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/scraper.js",
+    "scrape:2024:ayy": "SOURCE_URL=https://2024.myanmarexam.org/ayy.html OUTPUT_FILE=data/test_2024_ayy_results.json LATEST_FILE=data/test_2024_ayy_latest.json REGIONS_DIR=data/test_2024_ayy_regions PDF_MIRROR_DIR=data/test_2024_ayy_pdfs YEAR=2024 MAX_CRAWL_DEPTH=0 VALIDATE_PDF_LINKS=true MIRROR_PDFS=true ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/scraper.js",
+    "scrape:2024:mirrored": "SOURCE_URL=https://2024.myanmarexam.org OUTPUT_FILE=data/test_2024_mirrored_results.json LATEST_FILE=data/test_2024_mirrored_latest.json REGIONS_DIR=data/test_2024_mirrored_regions PDF_MIRROR_DIR=data/test_2024_mirrored_pdfs YEAR=2024 VALIDATE_PDF_LINKS=true MIRROR_PDFS=true ALLOW_INSECURE_TLS=true REQUEST_TIMEOUT_MS=120000 node scripts/scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  }
+}
