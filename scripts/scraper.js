@@ -33,6 +33,10 @@ const PDF_MIRROR_DIR = path.resolve(process.env.PDF_MIRROR_DIR || path.join(OUTP
 const PDF_MIRROR_BASE_PATH = (process.env.PDF_MIRROR_BASE_PATH || path.relative(OUTPUT_DIR, PDF_MIRROR_DIR) || 'pdfs')
     .replace(/\\/g, '/')
     .replace(/^\.\/?/, '');
+const RELEASE_STATUS = getOptionalEnv('RELEASE_STATUS');
+const RELEASE_AT = getOptionalEnv('RELEASE_AT');
+const RELEASE_SOURCE_URL = getOptionalEnv('RELEASE_SOURCE_URL');
+const RELEASE_SOURCE_LABEL = getOptionalEnv('RELEASE_SOURCE_LABEL');
 
 function normalizePageUrl(url) {
     const normalized = new URL(url);
@@ -50,6 +54,32 @@ function isHtmlPageLink(url) {
 
 function cleanText(text) {
     return text.replace(/\s+/g, ' ').trim();
+}
+
+function getOptionalEnv(key) {
+    const value = process.env[key];
+    return typeof value === 'string' && value.trim() ? value.trim() : null;
+}
+
+function normalizeReleaseStatus(status, releaseAt) {
+    if (status === 'scheduled' || status === 'released' || status === 'unknown') {
+        return status;
+    }
+
+    return releaseAt ? 'scheduled' : 'unknown';
+}
+
+function buildReleaseMetadata() {
+    if (!RELEASE_STATUS && !RELEASE_AT && !RELEASE_SOURCE_URL && !RELEASE_SOURCE_LABEL) {
+        return null;
+    }
+
+    return {
+        status: normalizeReleaseStatus(RELEASE_STATUS, RELEASE_AT),
+        releaseAt: RELEASE_AT,
+        sourceUrl: RELEASE_SOURCE_URL,
+        sourceLabel: RELEASE_SOURCE_LABEL
+    };
 }
 
 function getContentType(response) {
@@ -599,7 +629,8 @@ function buildPayload(results, pages) {
             scrapedAt: new Date().toISOString(),
             resultCount: results.length,
             pagesVisited: pages.length,
-            maxCrawlDepth: MAX_CRAWL_DEPTH
+            maxCrawlDepth: MAX_CRAWL_DEPTH,
+            release: buildReleaseMetadata()
         },
         pages,
         results

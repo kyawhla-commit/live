@@ -48,6 +48,11 @@ jobs:
       REQUEST_TIMEOUT_MS: '120000'
       SCRAPER_FAIL_ON_ERROR: 'true'
       SCRAPE_SUMMARY_FILE: ${{ runner.temp }}/scrape-summary.json
+      Enable these only after an official release announcement is published.
+      RELEASE_STATUS: scheduled
+      RELEASE_AT: '2026-06-27T04:00:00+06:30'
+      RELEASE_SOURCE_URL: https://myanmarexam.org/
+      RELEASE_SOURCE_LABEL: Official announcement
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
