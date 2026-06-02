@@ -6,12 +6,7 @@
     "resultCount": 0,
     "pagesVisited": 0,
     "maxCrawlDepth": 1,
-    "release":{
-  "status": "scheduled",
-  "releaseAt": "2026-06-27T04:00:00+06:30",
-  "sourceUrl": "https://myanmarexam.org/",
-  "sourceLabel": "Official announcement"
-}
+    "release": null
   },
   "regions": [],
   "pages": []
