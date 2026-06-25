@@ -6,7 +6,12 @@
     "resultCount": 0,
     "pagesVisited": 0,
     "maxCrawlDepth": 1,
-    "release": null
+    "release": {
+      "status": "scheduled",
+      "releaseAt": "2026-06-28T04:00:00+06:30",
+      "sourceUrl": "https://www.myanmarexam.org/",
+      "sourceLabel": "Department of Myanmar Examinations"
+    }
   },
   "pages": [],
   "results": []

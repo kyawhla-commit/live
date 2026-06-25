@@ -24,9 +24,9 @@ When the official release time and source are available, enable the countdown by
 ```json
 "release": {
   "status": "scheduled",
-  "releaseAt": "2026-07-27T04:00:00+06:30",
-  "sourceUrl": "https://official-source-url",
-  "sourceLabel": "Official announcement"
+  "releaseAt": "2026-06-28T04:00:00+06:30",
+  "sourceUrl": "https://www.myanmarexam.org/",
+  "sourceLabel": "Department of Myanmar Examinations"
 }
 ```
 
