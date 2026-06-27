@@ -2,9 +2,9 @@
   "metadata": {
     "year": "2026",
     "sourceUrl": "https://2026.myanmarexam.org/",
-    "scrapedAt": "2026-04-18T00:00:00.000Z",
-    "resultCount": 0,
-    "pagesVisited": 0,
+    "scrapedAt": "2026-06-27T21:33:31.298Z",
+    "resultCount": 919,
+    "pagesVisited": 17,
     "maxCrawlDepth": 1,
     "release": {
       "status": "scheduled",
@@ -13,6 +13,212 @@
       "sourceLabel": "Department of Myanmar Examinations"
     }
   },
-  "regions": [],
-  "pages": []
+  "regions": [
+    {
+      "slug": "home",
+      "name": "နိုင်ငံခြား",
+      "sourcePage": "https://2026.myanmarexam.org/",
+      "resultCount": 1,
+      "dataFile": "regions/home.json"
+    },
+    {
+      "slug": "ygn",
+      "name": "ရန်ကုန်တိုင်းဒေသကြီး",
+      "sourcePage": "https://2026.myanmarexam.org/ygn.html",
+      "resultCount": 103,
+      "dataFile": "regions/ygn.json"
+    },
+    {
+      "slug": "mdy",
+      "name": "မန္တလေးတိုင်းဒေသကြီး",
+      "sourcePage": "https://2026.myanmarexam.org/mdy.html",
+      "resultCount": 107,
+      "dataFile": "regions/mdy.json"
+    },
+    {
+      "slug": "npw",
+      "name": "နေပြည်တော်",
+      "sourcePage": "https://2026.myanmarexam.org/npw.html",
+      "resultCount": 49,
+      "dataFile": "regions/npw.json"
+    },
+    {
+      "slug": "ayy",
+      "name": "ဧရာဝတီတိုင်းဒေသကြီး",
+      "sourcePage": "https://2026.myanmarexam.org/ayy.html",
+      "resultCount": 247,
+      "dataFile": "regions/ayy.json"
+    },
+    {
+      "slug": "sgg",
+      "name": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+      "sourcePage": "https://2026.myanmarexam.org/sgg.html",
+      "resultCount": 40,
+      "dataFile": "regions/sgg.json"
+    },
+    {
+      "slug": "mgy",
+      "name": "မကွေးတိုင်းဒေသကြီး",
+      "sourcePage": "https://2026.myanmarexam.org/mgy.html",
+      "resultCount": 52,
+      "dataFile": "regions/mgy.json"
+    },
+    {
+      "slug": "bgo",
+      "name": "ပဲခူးတိုင်းဒေသကြီး",
+      "sourcePage": "https://2026.myanmarexam.org/bgo.html",
+      "resultCount": 85,
+      "dataFile": "regions/bgo.json"
+    },
+    {
+      "slug": "tni",
+      "name": "တနင်္သာရီတိုင်းဒေသကြီး",
+      "sourcePage": "https://2026.myanmarexam.org/tni.html",
+      "resultCount": 17,
+      "dataFile": "regions/tni.json"
+    },
+    {
+      "slug": "kcn",
+      "name": "ကချင်ပြည်နယ်",
+      "sourcePage": "https://2026.myanmarexam.org/kcn.html",
+      "resultCount": 23,
+      "dataFile": "regions/kcn.json"
+    },
+    {
+      "slug": "kyh",
+      "name": "လွိုင်ကော်",
+      "sourcePage": "https://2026.myanmarexam.org/kyh.html",
+      "resultCount": 1,
+      "dataFile": "regions/kyh.json"
+    },
+    {
+      "slug": "kyn",
+      "name": "ကရင်ပြည်နယ်",
+      "sourcePage": "https://2026.myanmarexam.org/kyn.html",
+      "resultCount": 12,
+      "dataFile": "regions/kyn.json"
+    },
+    {
+      "slug": "chn",
+      "name": "ချင်းပြည်နယ်",
+      "sourcePage": "https://2026.myanmarexam.org/chn.html",
+      "resultCount": 2,
+      "dataFile": "regions/chn.json"
+    },
+    {
+      "slug": "mon",
+      "name": "မွန်ပြည်နယ်",
+      "sourcePage": "https://2026.myanmarexam.org/mon.html",
+      "resultCount": 30,
+      "dataFile": "regions/mon.json"
+    },
+    {
+      "slug": "rke",
+      "name": "ရခိုင်ပြည်နယ်",
+      "sourcePage": "https://2026.myanmarexam.org/rke.html",
+      "resultCount": 10,
+      "dataFile": "regions/rke.json"
+    },
+    {
+      "slug": "shn",
+      "name": "ရှမ်းပြည်နယ်",
+      "sourcePage": "https://2026.myanmarexam.org/shn.html",
+      "resultCount": 88,
+      "dataFile": "regions/shn.json"
+    },
+    {
+      "slug": "betal",
+      "name": "၂၀၂၆ ခုနှစ်၊ စက်မှု၊ စိုက်ပျိုး၊ မွေးမြူရေး တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း",
+      "sourcePage": "https://2026.myanmarexam.org/betal.html",
+      "resultCount": 53,
+      "dataFile": "regions/betal.json"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://2026.myanmarexam.org/",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း",
+      "resultCount": 1
+    },
+    {
+      "url": "https://2026.myanmarexam.org/ygn.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရန်ကုန်တိုင်းဒေသကြီး)",
+      "resultCount": 103
+    },
+    {
+      "url": "https://2026.myanmarexam.org/mdy.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မန္တလေးတိုင်းဒေသကြီး)",
+      "resultCount": 107
+    },
+    {
+      "url": "https://2026.myanmarexam.org/npw.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (နေပြည်တော်)",
+      "resultCount": 49
+    },
+    {
+      "url": "https://2026.myanmarexam.org/ayy.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ဧရာဝတီတိုင်းဒေသကြီး)",
+      "resultCount": 247
+    },
+    {
+      "url": "https://2026.myanmarexam.org/sgg.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
+      "resultCount": 40
+    },
+    {
+      "url": "https://2026.myanmarexam.org/mgy.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
+      "resultCount": 52
+    },
+    {
+      "url": "https://2026.myanmarexam.org/bgo.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
+      "resultCount": 85
+    },
+    {
+      "url": "https://2026.myanmarexam.org/tni.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
+      "resultCount": 17
+    },
+    {
+      "url": "https://2026.myanmarexam.org/kcn.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကချင်ပြည်နယ်)",
+      "resultCount": 23
+    },
+    {
+      "url": "https://2026.myanmarexam.org/kyh.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကယားပြည်နယ်)",
+      "resultCount": 1
+    },
+    {
+      "url": "https://2026.myanmarexam.org/kyn.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကရင်ပြည်နယ်)",
+      "resultCount": 12
+    },
+    {
+      "url": "https://2026.myanmarexam.org/chn.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ချင်းပြည်နယ်)",
+      "resultCount": 2
+    },
+    {
+      "url": "https://2026.myanmarexam.org/mon.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မွန်ပြည်နယ်)",
+      "resultCount": 30
+    },
+    {
+      "url": "https://2026.myanmarexam.org/rke.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
+      "resultCount": 10
+    },
+    {
+      "url": "https://2026.myanmarexam.org/shn.html",
+      "title": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရှမ်းပြည်နယ်)",
+      "resultCount": 88
+    },
+    {
+      "url": "https://2026.myanmarexam.org/betal.html",
+      "title": "၂၀၂၆ ခုနှစ်၊ စက်မှု၊ စိုက်ပျိုး၊ မွေးမြူရေး တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း",
+      "resultCount": 53
+    }
+  ]
 }
