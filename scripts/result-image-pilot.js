@@ -1,6 +1,10 @@
+const axios = require('axios');
 const { execFile } = require('child_process');
+const { createWriteStream } = require('fs');
 const fs = require('fs/promises');
+const https = require('https');
 const path = require('path');
+const { pipeline } = require('stream/promises');
 const { promisify } = require('util');
 
 const execFileAsync = promisify(execFile);
@@ -23,9 +27,35 @@ const IMAGE_DPI = Math.max(72, Number.parseInt(process.env.IMAGE_DPI || '144', 1
 const IMAGE_CONCURRENCY = Math.max(1, Number.parseInt(process.env.IMAGE_CONCURRENCY || '2', 10));
 const IMAGE_FORCE = process.env.IMAGE_FORCE === 'true';
 const IMAGE_MAX_RESULTS = Math.max(0, Number.parseInt(process.env.IMAGE_MAX_RESULTS || '0', 10));
+const ALLOW_INSECURE_TLS = process.env.ALLOW_INSECURE_TLS === 'true';
+const REQUEST_TIMEOUT_MS = Math.max(1000, Number.parseInt(process.env.REQUEST_TIMEOUT_MS || '120000', 10));
 
 function cleanText(value) {
     return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+function isRemoteUrl(value) {
+    try {
+        const url = new URL(value);
+        return url.protocol === 'http:' || url.protocol === 'https:';
+    } catch {
+        return false;
+    }
+}
+
+function createHttpClient() {
+    return axios.create({
+        timeout: REQUEST_TIMEOUT_MS,
+        httpsAgent: ALLOW_INSECURE_TLS
+            ? new https.Agent({
+                rejectUnauthorized: false
+            })
+            : undefined
+    });
+}
+
+function getContentType(response) {
+    return String(response.headers?.['content-type'] || '').toLowerCase();
 }
 
 function getPageSlug(pageUrl) {
@@ -94,6 +124,44 @@ async function ensureRequiredTools() {
     await runTool('pdftocairo', ['-v']);
     await runTool('identify', ['-version']);
     await runTool('convert', ['-version']);
+}
+
+async function downloadRemotePdf(result, outputPath) {
+    const client = createHttpClient();
+    const response = await client.get(result.url, {
+        headers: {
+            Accept: 'application/pdf,*/*;q=0.8',
+            Referer: result.sourcePage
+        },
+        responseType: 'stream',
+        validateStatus: () => true
+    });
+
+    const contentType = getContentType(response);
+
+    if (response.status !== 200) {
+        response.data.destroy();
+        throw new Error(`Remote PDF download failed with status ${response.status}`);
+    }
+
+    if (contentType.includes('xml') || contentType.includes('html') || /^text\//.test(contentType)) {
+        response.data.destroy();
+        throw new Error(`Remote PDF download returned ${contentType || 'unexpected content'}`);
+    }
+
+    await pipeline(response.data, createWriteStream(outputPath));
+}
+
+async function preparePdfInput(result, tempDir) {
+    if (!isRemoteUrl(result.url)) {
+        const pdfPath = getPdfInputPath(result);
+        await fs.access(pdfPath);
+        return pdfPath;
+    }
+
+    const pdfPath = path.join(tempDir, `${getImageFileStem(result)}.pdf`);
+    await downloadRemotePdf(result, pdfPath);
+    return pdfPath;
 }
 
 async function getImageDimensions(filePath) {
@@ -169,18 +237,17 @@ async function renderPdfToImageManifest(result) {
         return cachedManifest;
     }
 
-    const pdfPath = getPdfInputPath(result);
     const outputDir = getImageOutputDir(result);
     const manifestPath = getImageManifestPath(result);
     const tempDir = path.resolve(ARCHIVE_DIR, '.image-render-tmp', `${getImageFileStem(result)}-${Date.now()}`);
     const tempPrefix = path.join(tempDir, 'page');
 
-    await fs.access(pdfPath);
     await fs.rm(outputDir, { recursive: true, force: true });
     await fs.mkdir(outputDir, { recursive: true });
     await fs.mkdir(tempDir, { recursive: true });
 
     try {
+        const pdfPath = await preparePdfInput(result, tempDir);
         await runTool('pdftocairo', ['-png', '-r', String(IMAGE_DPI), pdfPath, tempPrefix]);
         const pngFiles = sortPageFiles(
             (await fs.readdir(tempDir)).filter((fileName) => /^page-\d+\.png$/i.test(fileName))

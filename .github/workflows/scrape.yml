@@ -78,12 +78,20 @@ jobs:
           node-version: 20
           cache: npm
 
+      - name: Install PDF image tools
+        if: env.RUN_RESULTS == 'true' || env.RUN_STATS == 'true'
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils imagemagick
+
       - name: Install dependencies
         run: npm ci
 
       - name: Run scraper
         if: env.RUN_RESULTS == 'true'
         run: npm run scrape:2026
+
+      - name: Build live result image reader data
+        if: env.RUN_RESULTS == 'true'
+        run: npm run build:image-live
 
       - name: Run stats scraper
         if: env.RUN_STATS == 'true'
