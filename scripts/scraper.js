@@ -656,6 +656,73 @@ function buildPublicPayload(payload) {
     };
 }
 
+function getResultImageKeys(result) {
+    const keys = [];
+
+    if (result.url) {
+        keys.push(`url:${result.url}`);
+    }
+
+    if (result.sourcePage && result.fileName) {
+        keys.push(`source-file:${result.sourcePage}:${result.fileName}`);
+    }
+
+    return keys;
+}
+
+function buildExistingImageManifestMap(payload) {
+    const imageManifestMap = new Map();
+
+    for (const result of payload?.results || []) {
+        if (!result.imageManifest) {
+            continue;
+        }
+
+        const imageMetadata = {
+            imageManifest: result.imageManifest,
+            imagePageCount: result.imagePageCount ?? null
+        };
+
+        for (const key of getResultImageKeys(result)) {
+            if (!imageManifestMap.has(key)) {
+                imageManifestMap.set(key, imageMetadata);
+            }
+        }
+    }
+
+    return imageManifestMap;
+}
+
+async function loadExistingImageManifestMap(filePath) {
+    try {
+        const payload = JSON.parse(await fs.readFile(filePath, 'utf8'));
+        return buildExistingImageManifestMap(payload);
+    } catch (error) {
+        if (error.code !== 'ENOENT') {
+            console.warn(`Could not preserve existing image metadata from ${filePath}: ${error.message}`);
+        }
+
+        return new Map();
+    }
+}
+
+function attachExistingImageManifests(payload, imageManifestMap) {
+    if (imageManifestMap.size === 0) {
+        return payload;
+    }
+
+    return {
+        ...payload,
+        results: payload.results.map((result) => {
+            const imageMetadata = getResultImageKeys(result)
+                .map((key) => imageManifestMap.get(key))
+                .find(Boolean);
+
+            return imageMetadata ? { ...result, ...imageMetadata } : result;
+        })
+    };
+}
+
 function getPageResults(payload, page) {
     return payload.results.filter((result) => result.sourcePage === page.url);
 }
@@ -828,9 +895,11 @@ async function mirrorPdfResults(results) {
 }
 
 async function saveResults(payload) {
+    const imageManifestMap = await loadExistingImageManifestMap(OUTPUT_FILE);
+
     await fs.rm(PDF_MIRROR_DIR, { recursive: true, force: true });
     const mirroredCount = await mirrorPdfResults(payload.results);
-    const publicPayload = buildPublicPayload(payload);
+    const publicPayload = attachExistingImageManifests(buildPublicPayload(payload), imageManifestMap);
     const populatedPages = publicPayload.pages.filter((item) => item.resultCount > 0);
 
     await writeJson(OUTPUT_FILE, publicPayload);
@@ -952,6 +1021,8 @@ if (require.main === module) {
 }
 
 module.exports = {
+    attachExistingImageManifests,
+    buildExistingImageManifestMap,
     buildLatestPayload,
     buildPayload,
     buildPublicPayload,

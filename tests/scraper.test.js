@@ -6,6 +6,8 @@ const os = require('os');
 const path = require('path');
 
 const {
+    attachExistingImageManifests,
+    buildExistingImageManifestMap,
     buildLatestPayload,
     buildPublicPayload,
     ensureTrackedDirectory,
@@ -93,6 +95,40 @@ test('buildPublicPayload rewrites mirrored urls and latest payload only includes
         dataFile: 'regions/ygn.json'
     });
     assert.deepEqual(latestPayload.pages, publicPayload.pages);
+});
+
+test('attachExistingImageManifests preserves existing image metadata by public url', () => {
+    const nextPayload = {
+        metadata: {},
+        pages: [],
+        results: [
+            {
+                name: 'YGN-001',
+                url: 'pdfs/ygn/YGN-001.pdf',
+                fileName: 'YGN-001.pdf',
+                sourcePage: 'https://2026.myanmarexam.org/ygn.html'
+            }
+        ]
+    };
+    const existingPayload = {
+        results: [
+            {
+                url: 'pdfs/ygn/YGN-001.pdf',
+                fileName: 'YGN-001.pdf',
+                sourcePage: 'https://2026.myanmarexam.org/ygn.html',
+                imageManifest: 'image-manifests/ygn/YGN-001.json',
+                imagePageCount: 8
+            }
+        ]
+    };
+
+    const nextPayloadWithImages = attachExistingImageManifests(
+        nextPayload,
+        buildExistingImageManifestMap(existingPayload)
+    );
+
+    assert.equal(nextPayloadWithImages.results[0].imageManifest, 'image-manifests/ygn/YGN-001.json');
+    assert.equal(nextPayloadWithImages.results[0].imagePageCount, 8);
 });
 
 test('buildLatestPayload normalizes multi-result region titles', () => {
