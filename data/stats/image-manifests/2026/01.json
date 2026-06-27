@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "version": 1,
+    "kind": "stats",
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:42:38.834Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 1,
+    "pdfUrl": "stats/pdfs/2026/01.pdf",
+    "fileName": "01.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/",
+    "sourcePageTitle": "အောင်ချက်ရာခိုင်နှုန်း",
+    "title": "အောင်ချက်ရာခိုင်နှုန်း"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1191,
+      "height": 1684,
+      "url": "stats/image-pages/2026/01/page-001.webp"
+    }
+  ]
+}

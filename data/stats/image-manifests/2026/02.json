@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "version": 1,
+    "kind": "stats",
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:42:39.996Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 3,
+    "pdfUrl": "stats/pdfs/2026/02.pdf",
+    "fileName": "02.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/",
+    "sourcePageTitle": "တစ်နိုင်ငံလုံး ဘာသာတွဲ အလိုက် Top Ten",
+    "title": "တစ်နိုင်ငံလုံး ဘာသာတွဲ အလိုက် Top Ten"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1684,
+      "height": 1191,
+      "url": "stats/image-pages/2026/02/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1684,
+      "height": 1191,
+      "url": "stats/image-pages/2026/02/page-002.webp"
+    },
+    {
+      "index": 3,
+      "width": 1684,
+      "height": 1191,
+      "url": "stats/image-pages/2026/02/page-003.webp"
+    }
+  ]
+}

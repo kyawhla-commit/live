@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "year": "2026",
+    "sourcePages": [
+      "https://2026.myanmarexam.org/"
+    ],
+    "scrapedAt": "2026-06-27T22:42:37.499Z",
+    "documentCount": 5,
+    "mirroredCount": 5
+  },
+  "documents": [
+    {
+      "id": "2026-01",
+      "order": 1,
+      "title": "အောင်ချက်ရာခိုင်နှုန်း",
+      "url": "stats/pdfs/2026/01.pdf",
+      "fileName": "01.pdf",
+      "sourcePage": "https://2026.myanmarexam.org/",
+      "sourceUrl": "https://r26files.s3.us-east-1.amazonaws.com/data/stats/01.pdf",
+      "mirrored": true,
+      "imageManifest": "stats/image-manifests/2026/01.json",
+      "imagePageCount": 1
+    },
+    {
+      "id": "2026-02",
+      "order": 2,
+      "title": "တစ်နိုင်ငံလုံး ဘာသာတွဲ အလိုက် Top Ten",
+      "url": "stats/pdfs/2026/02.pdf",
+      "fileName": "02.pdf",
+      "sourcePage": "https://2026.myanmarexam.org/",
+      "sourceUrl": "https://r26files.s3.us-east-1.amazonaws.com/data/stats/02.pdf",
+      "mirrored": true,
+      "imageManifest": "stats/image-manifests/2026/02.json",
+      "imagePageCount": 3
+    },
+    {
+      "id": "2026-03",
+      "order": 3,
+      "title": "သိပ္ပံတွဲ Top Ten (ပြည်နယ်နှင့်တိုင်း ဒေသကြီးအလိုက်)",
+      "url": "stats/pdfs/2026/03.pdf",
+      "fileName": "03.pdf",
+      "sourcePage": "https://2026.myanmarexam.org/",
+      "sourceUrl": "https://r26files.s3.us-east-1.amazonaws.com/data/stats/03.pdf",
+      "mirrored": true,
+      "imageManifest": "stats/image-manifests/2026/03.json",
+      "imagePageCount": 18
+    },
+    {
+      "id": "2026-04",
+      "order": 4,
+      "title": "ဝိပ္ပံတွဲ Top Ten (ပြည်နယ်နှင့်တိုင်း ဒေသကြီးအလိုက်)",
+      "url": "stats/pdfs/2026/04.pdf",
+      "fileName": "04.pdf",
+      "sourcePage": "https://2026.myanmarexam.org/",
+      "sourceUrl": "https://r26files.s3.us-east-1.amazonaws.com/data/stats/04.pdf",
+      "mirrored": true,
+      "imageManifest": "stats/image-manifests/2026/04.json",
+      "imagePageCount": 18
+    },
+    {
+      "id": "2026-05",
+      "order": 5,
+      "title": "ဝိဇ္ဇာတွဲ Top Ten (ပြည်နယ်နှင့်တိုင်း ဒေသကြီးအလိုက်)",
+      "url": "stats/pdfs/2026/05.pdf",
+      "fileName": "05.pdf",
+      "sourcePage": "https://2026.myanmarexam.org/",
+      "sourceUrl": "https://r26files.s3.us-east-1.amazonaws.com/data/stats/05.pdf",
+      "mirrored": true,
+      "imageManifest": "stats/image-manifests/2026/05.json",
+      "imagePageCount": 18
+    }
+  ]
+}
