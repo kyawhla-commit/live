@@ -13,6 +13,10 @@ on:
         description: Run the live 2026 statistics scraper
         type: boolean
         default: true
+      run_result_images:
+        description: Build image reader data for live result PDFs
+        type: boolean
+        default: false
       run_questions:
         description: Run the old-question scraper
         type: boolean
@@ -63,12 +67,14 @@ jobs:
           echo "MIRROR_PDFS=true" >> "$GITHUB_ENV"
           echo "RUN_RESULTS=true" >> "$GITHUB_ENV"
           echo "RUN_STATS=true" >> "$GITHUB_ENV"
+          echo "RUN_RESULT_IMAGES=false" >> "$GITHUB_ENV"
           echo "RUN_QUESTIONS=false" >> "$GITHUB_ENV"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "WRITE_EMPTY_FEED=${{ github.event.inputs.write_empty_feed }}" >> "$GITHUB_ENV"
             echo "MIRROR_PDFS=${{ github.event.inputs.mirror_pdfs }}" >> "$GITHUB_ENV"
             echo "RUN_RESULTS=${{ github.event.inputs.run_results }}" >> "$GITHUB_ENV"
             echo "RUN_STATS=${{ github.event.inputs.run_stats }}" >> "$GITHUB_ENV"
+            echo "RUN_RESULT_IMAGES=${{ github.event.inputs.run_result_images }}" >> "$GITHUB_ENV"
             echo "RUN_QUESTIONS=${{ github.event.inputs.run_questions }}" >> "$GITHUB_ENV"
           fi
 
@@ -90,7 +96,7 @@ jobs:
         run: npm run scrape:2026
 
       - name: Build live result image reader data
-        if: env.RUN_RESULTS == 'true'
+        if: env.RUN_RESULTS == 'true' && env.RUN_RESULT_IMAGES == 'true'
         run: npm run build:image-live
 
       - name: Run stats scraper
@@ -117,6 +123,7 @@ jobs:
           const lines = ['## Scrape Summary', ''];
           lines.push(`- Run results: \`${process.env.RUN_RESULTS}\``);
           lines.push(`- Run stats: \`${process.env.RUN_STATS}\``);
+          lines.push(`- Run result images: \`${process.env.RUN_RESULT_IMAGES}\``);
           lines.push(`- Run questions: \`${process.env.RUN_QUESTIONS}\``);
           lines.push('');
 
