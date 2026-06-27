@@ -47,7 +47,7 @@ jobs:
       PDF_MIRROR_CONCURRENCY: '4'
       REQUEST_TIMEOUT_MS: '120000'
       SCRAPER_FAIL_ON_ERROR: 'true'
-      SCRAPE_SUMMARY_FILE: ${{ runner.temp }}/scrape-summary.json
+      SCRAPE_SUMMARY_FILE: /tmp/scrape-summary.json
       # Enable these only after an official release announcement is published.
       RELEASE_STATUS: scheduled
       RELEASE_AT: '2026-06-28T04:00:00+06:30'
