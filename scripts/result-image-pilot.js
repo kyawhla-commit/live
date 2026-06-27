@@ -26,6 +26,7 @@ const IMAGE_QUALITY = Math.max(1, Number.parseInt(process.env.IMAGE_QUALITY || '
 const IMAGE_DPI = Math.max(72, Number.parseInt(process.env.IMAGE_DPI || '144', 10));
 const IMAGE_CONCURRENCY = Math.max(1, Number.parseInt(process.env.IMAGE_CONCURRENCY || '2', 10));
 const IMAGE_FORCE = process.env.IMAGE_FORCE === 'true';
+const IMAGE_START_INDEX = Math.max(0, Number.parseInt(process.env.IMAGE_START_INDEX || '0', 10));
 const IMAGE_MAX_RESULTS = Math.max(0, Number.parseInt(process.env.IMAGE_MAX_RESULTS || '0', 10));
 const ALLOW_INSECURE_TLS = process.env.ALLOW_INSECURE_TLS === 'true';
 const REQUEST_TIMEOUT_MS = Math.max(1000, Number.parseInt(process.env.REQUEST_TIMEOUT_MS || '120000', 10));
@@ -328,7 +329,9 @@ async function generateImagePilot() {
     await ensureRequiredTools();
 
     const payload = JSON.parse(await fs.readFile(OUTPUT_FILE, 'utf8'));
-    const sourceResults = IMAGE_MAX_RESULTS > 0 ? payload.results.slice(0, IMAGE_MAX_RESULTS) : payload.results;
+    const sourceResults = IMAGE_MAX_RESULTS > 0
+        ? payload.results.slice(IMAGE_START_INDEX, IMAGE_START_INDEX + IMAGE_MAX_RESULTS)
+        : payload.results.slice(IMAGE_START_INDEX);
     const manifestEntries = [];
     const failures = [];
 
@@ -346,7 +349,7 @@ async function generateImagePilot() {
         }
     });
 
-    const manifestMap = await loadAvailableManifestMap(sourceResults);
+    const manifestMap = await loadAvailableManifestMap(payload.results);
     const nextPayload = attachImageManifests(payload, manifestMap);
     await writeJson(OUTPUT_FILE, nextPayload);
 
