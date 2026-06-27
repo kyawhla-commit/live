@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "version": 1,
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:28:40.394Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 2,
+    "pdfUrl": "pdfs/shn/SHN-041.pdf",
+    "fileName": "SHN-041.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/shn.html",
+    "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရှမ်းပြည်နယ်)",
+    "title": "အထက၊တင်းထက်(ပင်လောင်း)"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/shn/SHN-041/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/shn/SHN-041/page-002.webp"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "version": 1,
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:26:57.954Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 8,
+    "pdfUrl": "pdfs/kyn/KYN-004.pdf",
+    "fileName": "KYN-004.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/kyn.html",
+    "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကရင်ပြည်နယ်)",
+    "title": "အထက(၄)ဘားအံ"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/kyn/KYN-004/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/kyn/KYN-004/page-002.webp"
+    },
+    {
+      "index": 3,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/kyn/KYN-004/page-003.webp"
+    },
+    {
+      "index": 4,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/kyn/KYN-004/page-004.webp"
+    },
+    {
+      "index": 5,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/kyn/KYN-004/page-005.webp"
+    },
+    {
+      "index": 6,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/kyn/KYN-004/page-006.webp"
+    },
+    {
+      "index": 7,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/kyn/KYN-004/page-007.webp"
+    },
+    {
+      "index": 8,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/kyn/KYN-004/page-008.webp"
+    }
+  ]
+}

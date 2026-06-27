@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "version": 1,
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:28:45.883Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 2,
+    "pdfUrl": "pdfs/shn/SHN-051.pdf",
+    "fileName": "SHN-051.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/shn.html",
+    "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရှမ်းပြည်နယ်)",
+    "title": "အထက၊မြင်းကျဒိုး(ရွာငံ)"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/shn/SHN-051/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/shn/SHN-051/page-002.webp"
+    }
+  ]
+}

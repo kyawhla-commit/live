@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "version": 1,
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:29:07.242Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 3,
+    "pdfUrl": "pdfs/betal/04CKL.pdf",
+    "fileName": "04CKL.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/betal.html",
+    "sourcePageTitle": "၂၀၂၆ ခုနှစ်၊ စက်မှု၊ စိုက်ပျိုး၊ မွေးမြူရေး တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း",
+    "title": "အစမ(ချိကယ်)"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1684,
+      "height": 1191,
+      "url": "image-pages/betal/04CKL/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1684,
+      "height": 1191,
+      "url": "image-pages/betal/04CKL/page-002.webp"
+    },
+    {
+      "index": 3,
+      "width": 1684,
+      "height": 1191,
+      "url": "image-pages/betal/04CKL/page-003.webp"
+    }
+  ]
+}

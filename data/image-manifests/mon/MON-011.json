@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "version": 1,
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:27:23.841Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 5,
+    "pdfUrl": "pdfs/mon/MON-011.pdf",
+    "fileName": "MON-011.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/mon.html",
+    "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မွန်ပြည်နယ်)",
+    "title": "အထက၊ကမာဝက်(မုဒုံ)"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/mon/MON-011/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/mon/MON-011/page-002.webp"
+    },
+    {
+      "index": 3,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/mon/MON-011/page-003.webp"
+    },
+    {
+      "index": 4,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/mon/MON-011/page-004.webp"
+    },
+    {
+      "index": 5,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/mon/MON-011/page-005.webp"
+    }
+  ]
+}

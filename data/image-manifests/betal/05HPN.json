@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "version": 1,
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:29:07.676Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 2,
+    "pdfUrl": "pdfs/betal/05HPN.pdf",
+    "fileName": "05HPN.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/betal.html",
+    "sourcePageTitle": "၂၀၂၆ ခုနှစ်၊ စက်မှု၊ စိုက်ပျိုး၊ မွေးမြူရေး တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း",
+    "title": "နပက(ဘားအံ)"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1684,
+      "height": 1191,
+      "url": "image-pages/betal/05HPN/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1684,
+      "height": 1191,
+      "url": "image-pages/betal/05HPN/page-002.webp"
+    }
+  ]
+}

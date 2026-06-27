@@ -28,8 +28,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-001.json",
+      "imagePageCount": 7
     },
     {
       "name": "စစ်တွေ",
@@ -42,8 +42,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-002.json",
+      "imagePageCount": 7
     },
     {
       "name": "စစ်တွေ",
@@ -56,8 +56,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-003.json",
+      "imagePageCount": 2
     },
     {
       "name": "စစ်တွေ",
@@ -70,8 +70,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-004.json",
+      "imagePageCount": 3
     },
     {
       "name": "ကျောက်ဖြူ",
@@ -84,8 +84,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-005.json",
+      "imagePageCount": 4
     },
     {
       "name": "တောင်ကုတ်",
@@ -98,8 +98,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-006.json",
+      "imagePageCount": 6
     },
     {
       "name": "တောင်ကုတ်",
@@ -112,8 +112,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-007.json",
+      "imagePageCount": 2
     },
     {
       "name": "တောင်ကုတ်",
@@ -126,8 +126,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-008.json",
+      "imagePageCount": 1
     },
     {
       "name": "တောင်ကုတ်",
@@ -140,8 +140,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-009.json",
+      "imagePageCount": 1
     },
     {
       "name": "တောင်ကုတ်",
@@ -154,8 +154,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/rke.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ရခိုင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/rke/RKE-010.json",
+      "imagePageCount": 1
     }
   ]
 }
