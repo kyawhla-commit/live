@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "version": 1,
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:07:36.622Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 8,
+    "pdfUrl": "pdfs/npw/NPW-026.pdf",
+    "fileName": "NPW-026.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/npw.html",
+    "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (နေပြည်တော်)",
+    "title": "အထက(၁)ပျဉ်းမနား (ပျဉ်းမနား)"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-026/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-026/page-002.webp"
+    },
+    {
+      "index": 3,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-026/page-003.webp"
+    },
+    {
+      "index": 4,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-026/page-004.webp"
+    },
+    {
+      "index": 5,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-026/page-005.webp"
+    },
+    {
+      "index": 6,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-026/page-006.webp"
+    },
+    {
+      "index": 7,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-026/page-007.webp"
+    },
+    {
+      "index": 8,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-026/page-008.webp"
+    }
+  ]
+}

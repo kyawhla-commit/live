@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "version": 1,
+    "year": "2026",
+    "generatedAt": "2026-06-27T22:07:56.602Z",
+    "format": "webp",
+    "dpi": 144,
+    "quality": 80,
+    "pageCount": 2,
+    "pdfUrl": "pdfs/npw/NPW-044.pdf",
+    "fileName": "NPW-044.pdf",
+    "sourcePage": "https://2026.myanmarexam.org/npw.html",
+    "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (နေပြည်တော်)",
+    "title": "အထက၊ဝက္ကမူ (လယ်ဝေး)"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-044/page-001.webp"
+    },
+    {
+      "index": 2,
+      "width": 1191,
+      "height": 1684,
+      "url": "image-pages/npw/NPW-044/page-002.webp"
+    }
+  ]
+}
