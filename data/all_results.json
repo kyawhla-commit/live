@@ -7182,8 +7182,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/ayy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ဧရာဝတီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/ayy/AYY-247.json",
+      "imagePageCount": 2
     },
     {
       "name": "စစ်ကိုင်း",
@@ -7196,8 +7196,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-001.json",
+      "imagePageCount": 11
     },
     {
       "name": "စစ်ကိုင်း",
@@ -7210,8 +7210,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-002.json",
+      "imagePageCount": 6
     },
     {
       "name": "စစ်ကိုင်း",
@@ -7224,8 +7224,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-003.json",
+      "imagePageCount": 4
     },
     {
       "name": "စစ်ကိုင်း",
@@ -7238,8 +7238,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-004.json",
+      "imagePageCount": 17
     },
     {
       "name": "ကလေး",
@@ -7252,8 +7252,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-005.json",
+      "imagePageCount": 6
     },
     {
       "name": "ကလေး",
@@ -7266,8 +7266,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-006.json",
+      "imagePageCount": 15
     },
     {
       "name": "ကလေး",
@@ -7280,8 +7280,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-007.json",
+      "imagePageCount": 13
     },
     {
       "name": "ကလေး",
@@ -7294,8 +7294,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-008.json",
+      "imagePageCount": 2
     },
     {
       "name": "ကလေး",
@@ -7308,8 +7308,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-009.json",
+      "imagePageCount": 4
     },
     {
       "name": "ကလေး",
@@ -7322,8 +7322,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-010.json",
+      "imagePageCount": 2
     },
     {
       "name": "ကလေး",
@@ -7336,8 +7336,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-011.json",
+      "imagePageCount": 3
     },
     {
       "name": "တမူး",
@@ -7350,8 +7350,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-012.json",
+      "imagePageCount": 6
     },
     {
       "name": "ရွှေဘို",
@@ -7364,8 +7364,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-013.json",
+      "imagePageCount": 17
     },
     {
       "name": "ကန့်ဘလူ",
@@ -7378,8 +7378,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-014.json",
+      "imagePageCount": 16
     },
     {
       "name": "ကန့်ဘလူ",
@@ -7392,8 +7392,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-015.json",
+      "imagePageCount": 2
     },
     {
       "name": "ကန့်ဘလူ",
@@ -7406,8 +7406,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-016.json",
+      "imagePageCount": 5
     },
     {
       "name": "ရေဦး",
@@ -7420,8 +7420,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-017.json",
+      "imagePageCount": 2
     },
     {
       "name": "မုံရွာ",
@@ -7434,8 +7434,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-018.json",
+      "imagePageCount": 9
     },
     {
       "name": "မုံရွာ",
@@ -7448,8 +7448,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-019.json",
+      "imagePageCount": 7
     },
     {
       "name": "မုံရွာ",
@@ -7462,8 +7462,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-020.json",
+      "imagePageCount": 5
     },
     {
       "name": "မုံရွာ",
@@ -7476,8 +7476,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-021.json",
+      "imagePageCount": 3
     },
     {
       "name": "ကသာ",
@@ -7490,8 +7490,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-022.json",
+      "imagePageCount": 3
     },
     {
       "name": "ကသာ",
@@ -7504,8 +7504,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-023.json",
+      "imagePageCount": 1
     },
     {
       "name": "ကောလင်း",
@@ -7518,8 +7518,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-024.json",
+      "imagePageCount": 2
     },
     {
       "name": "မော်လိုက်",
@@ -7532,8 +7532,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-025.json",
+      "imagePageCount": 2
     },
     {
       "name": "မော်လိုက်",
@@ -7546,8 +7546,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-026.json",
+      "imagePageCount": 1
     },
     {
       "name": "မော်လိုက်",
@@ -7560,8 +7560,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-027.json",
+      "imagePageCount": 5
     },
     {
       "name": "ခန္တီး",
@@ -7574,8 +7574,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-028.json",
+      "imagePageCount": 4
     },
     {
       "name": "ဟုမ္မလင်း",
@@ -7588,8 +7588,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-029.json",
+      "imagePageCount": 14
     },
     {
       "name": "ဟုမ္မလင်း",
@@ -7602,8 +7602,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-030.json",
+      "imagePageCount": 3
     },
     {
       "name": "ဟုမ္မလင်း",
@@ -7616,8 +7616,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-031.json",
+      "imagePageCount": 6
     },
     {
       "name": "ဟုမ္မလင်း",
@@ -7630,8 +7630,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-032.json",
+      "imagePageCount": 4
     },
     {
       "name": "ဟုမ္မလင်း",
@@ -7644,8 +7644,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-033.json",
+      "imagePageCount": 1
     },
     {
       "name": "ဟုမ္မလင်း",
@@ -7658,8 +7658,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-034.json",
+      "imagePageCount": 4
     },
     {
       "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
@@ -7672,8 +7672,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-035.json",
+      "imagePageCount": 2
     },
     {
       "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
@@ -7686,8 +7686,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-036.json",
+      "imagePageCount": 1
     },
     {
       "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
@@ -7700,8 +7700,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-037.json",
+      "imagePageCount": 1
     },
     {
       "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
@@ -7714,8 +7714,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-038.json",
+      "imagePageCount": 2
     },
     {
       "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
@@ -7728,8 +7728,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-039.json",
+      "imagePageCount": 3
     },
     {
       "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
@@ -7742,8 +7742,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/sgg.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (စစ်ကိုင်းတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/sgg/SGG-040.json",
+      "imagePageCount": 1
     },
     {
       "name": "မကွေး",
@@ -7756,8 +7756,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-001.json",
+      "imagePageCount": 19
     },
     {
       "name": "မကွေး",
@@ -7770,8 +7770,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-002.json",
+      "imagePageCount": 18
     },
     {
       "name": "မကွေး",
@@ -7784,8 +7784,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-003.json",
+      "imagePageCount": 19
     },
     {
       "name": "မကွေး",
@@ -7798,8 +7798,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-004.json",
+      "imagePageCount": 27
     },
     {
       "name": "မကွေး",
@@ -7812,8 +7812,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-005.json",
+      "imagePageCount": 8
     },
     {
       "name": "မကွေး",
@@ -7826,8 +7826,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-006.json",
+      "imagePageCount": 16
     },
     {
       "name": "မကွေး",
@@ -7840,8 +7840,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-007.json",
+      "imagePageCount": 1
     },
     {
       "name": "မကွေး",
@@ -7854,8 +7854,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-008.json",
+      "imagePageCount": 2
     },
     {
       "name": "မကွေး",
@@ -7868,8 +7868,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-009.json",
+      "imagePageCount": 3
     },
     {
       "name": "မကွေး",
@@ -7882,8 +7882,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-010.json",
+      "imagePageCount": 15
     },
     {
       "name": "မကွေး",
@@ -7896,8 +7896,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-011.json",
+      "imagePageCount": 18
     },
     {
       "name": "မကွေး",
@@ -7910,8 +7910,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-012.json",
+      "imagePageCount": 19
     },
     {
       "name": "မကွေး",
@@ -7924,8 +7924,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-013.json",
+      "imagePageCount": 12
     },
     {
       "name": "မကွေး",
@@ -7938,8 +7938,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-014.json",
+      "imagePageCount": 2
     },
     {
       "name": "မကွေး",
@@ -7952,8 +7952,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-015.json",
+      "imagePageCount": 11
     },
     {
       "name": "ချောက်",
@@ -7966,8 +7966,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-016.json",
+      "imagePageCount": 7
     },
     {
       "name": "ချောက်",
@@ -7980,8 +7980,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-017.json",
+      "imagePageCount": 7
     },
     {
       "name": "ချောက်",
@@ -7994,8 +7994,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-018.json",
+      "imagePageCount": 4
     },
     {
       "name": "ချောက်",
@@ -8008,8 +8008,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-019.json",
+      "imagePageCount": 19
     },
     {
       "name": "ချောက်",
@@ -8022,8 +8022,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-020.json",
+      "imagePageCount": 8
     },
     {
       "name": "မင်းဘူး",
@@ -8036,8 +8036,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-021.json",
+      "imagePageCount": 16
     },
     {
       "name": "မင်းဘူး",
@@ -8050,8 +8050,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-022.json",
+      "imagePageCount": 6
     },
     {
       "name": "မင်းဘူး",
@@ -8064,8 +8064,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-023.json",
+      "imagePageCount": 2
     },
     {
       "name": "မင်းဘူး",
@@ -8078,8 +8078,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-024.json",
+      "imagePageCount": 13
     },
     {
       "name": "မင်းဘူး",
@@ -8092,8 +8092,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-025.json",
+      "imagePageCount": 10
     },
     {
       "name": "မင်းဘူး",
@@ -8106,8 +8106,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-026.json",
+      "imagePageCount": 6
     },
     {
       "name": "မင်းဘူး",
@@ -8120,8 +8120,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-027.json",
+      "imagePageCount": 8
     },
     {
       "name": "မင်းဘူး",
@@ -8134,8 +8134,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-028.json",
+      "imagePageCount": 2
     },
     {
       "name": "မင်းဘူး",
@@ -8148,8 +8148,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-029.json",
+      "imagePageCount": 12
     },
     {
       "name": "မင်းဘူး",
@@ -8162,8 +8162,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-030.json",
+      "imagePageCount": 4
     },
     {
       "name": "မင်းဘူး",
@@ -8176,8 +8176,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-031.json",
+      "imagePageCount": 7
     },
     {
       "name": "သရက်",
@@ -8190,8 +8190,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-032.json",
+      "imagePageCount": 11
     },
     {
       "name": "သရက်",
@@ -8204,8 +8204,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-033.json",
+      "imagePageCount": 5
     },
     {
       "name": "သရက်",
@@ -8218,8 +8218,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-034.json",
+      "imagePageCount": 15
     },
     {
       "name": "သရက်",
@@ -8232,8 +8232,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-035.json",
+      "imagePageCount": 8
     },
     {
       "name": "အောင်လံ",
@@ -8246,8 +8246,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-036.json",
+      "imagePageCount": 17
     },
     {
       "name": "အောင်လံ",
@@ -8260,8 +8260,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-037.json",
+      "imagePageCount": 5
     },
     {
       "name": "အောင်လံ",
@@ -8274,8 +8274,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-038.json",
+      "imagePageCount": 3
     },
     {
       "name": "အောင်လံ",
@@ -8288,8 +8288,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-039.json",
+      "imagePageCount": 1
     },
     {
       "name": "အောင်လံ",
@@ -8302,8 +8302,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-040.json",
+      "imagePageCount": 2
     },
     {
       "name": "အောင်လံ",
@@ -8316,8 +8316,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-041.json",
+      "imagePageCount": 2
     },
     {
       "name": "အောင်လံ",
@@ -8330,8 +8330,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-042.json",
+      "imagePageCount": 3
     },
     {
       "name": "အောင်လံ",
@@ -8344,8 +8344,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-043.json",
+      "imagePageCount": 1
     },
     {
       "name": "ပခုက္ကူ",
@@ -8358,8 +8358,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-044.json",
+      "imagePageCount": 21
     },
     {
       "name": "ပခုက္ကူ",
@@ -8372,8 +8372,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-045.json",
+      "imagePageCount": 2
     },
     {
       "name": "ပခုက္ကူ",
@@ -8386,8 +8386,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-046.json",
+      "imagePageCount": 3
     },
     {
       "name": "ပခုက္ကူ",
@@ -8400,8 +8400,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-047.json",
+      "imagePageCount": 2
     },
     {
       "name": "ပခုက္ကူ",
@@ -8414,8 +8414,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-048.json",
+      "imagePageCount": 12
     },
     {
       "name": "ပခုက္ကူ",
@@ -8428,8 +8428,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-049.json",
+      "imagePageCount": 1
     },
     {
       "name": "ဂန့်ဂေါ",
@@ -8442,8 +8442,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-050.json",
+      "imagePageCount": 3
     },
     {
       "name": "ဂန့်ဂေါ",
@@ -8456,8 +8456,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-051.json",
+      "imagePageCount": 1
     },
     {
       "name": "ဂန့်ဂေါ",
@@ -8470,8 +8470,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/mgy.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (မကွေးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/mgy/MGY-052.json",
+      "imagePageCount": 1
     },
     {
       "name": "ပဲခူး",
@@ -8484,8 +8484,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-001.json",
+      "imagePageCount": 12
     },
     {
       "name": "ပဲခူး",
@@ -8498,8 +8498,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-002.json",
+      "imagePageCount": 9
     },
     {
       "name": "ပဲခူး",
@@ -8512,8 +8512,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-003.json",
+      "imagePageCount": 14
     },
     {
       "name": "ပဲခူး",
@@ -8526,8 +8526,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-004.json",
+      "imagePageCount": 8
     },
     {
       "name": "ပဲခူး",
@@ -8540,8 +8540,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-005.json",
+      "imagePageCount": 7
     },
     {
       "name": "ပဲခူး",
@@ -8554,8 +8554,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-006.json",
+      "imagePageCount": 8
     },
     {
       "name": "ပဲခူး",
@@ -8568,8 +8568,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-007.json",
+      "imagePageCount": 2
     },
     {
       "name": "ပဲခူး",
@@ -8582,8 +8582,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-008.json",
+      "imagePageCount": 8
     },
     {
       "name": "ပဲခူး",
@@ -8596,8 +8596,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-009.json",
+      "imagePageCount": 3
     },
     {
       "name": "ပဲခူး",
@@ -8610,8 +8610,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-010.json",
+      "imagePageCount": 10
     },
     {
       "name": "ပဲခူး",
@@ -8624,8 +8624,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-011.json",
+      "imagePageCount": 7
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8638,8 +8638,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-012.json",
+      "imagePageCount": 15
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8652,8 +8652,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-013.json",
+      "imagePageCount": 9
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8666,8 +8666,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-014.json",
+      "imagePageCount": 5
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8680,8 +8680,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-015.json",
+      "imagePageCount": 6
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8694,8 +8694,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-016.json",
+      "imagePageCount": 11
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8708,8 +8708,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-017.json",
+      "imagePageCount": 4
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8722,8 +8722,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-018.json",
+      "imagePageCount": 9
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8736,8 +8736,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-019.json",
+      "imagePageCount": 8
     },
     {
       "name": "ညောင်လေးပင်",
@@ -8750,8 +8750,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-020.json",
+      "imagePageCount": 6
     },
     {
       "name": "တောင်ငူ",
@@ -8764,8 +8764,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-021.json",
+      "imagePageCount": 5
     },
     {
       "name": "တောင်ငူ",
@@ -8778,8 +8778,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-022.json",
+      "imagePageCount": 8
     },
     {
       "name": "တောင်ငူ",
@@ -8792,8 +8792,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-023.json",
+      "imagePageCount": 9
     },
     {
       "name": "တောင်ငူ",
@@ -8806,8 +8806,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-024.json",
+      "imagePageCount": 9
     },
     {
       "name": "တောင်ငူ",
@@ -8820,8 +8820,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-025.json",
+      "imagePageCount": 2
     },
     {
       "name": "တောင်ငူ",
@@ -8834,8 +8834,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-026.json",
+      "imagePageCount": 6
     },
     {
       "name": "တောင်ငူ",
@@ -8848,8 +8848,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-027.json",
+      "imagePageCount": 5
     },
     {
       "name": "တောင်ငူ",
@@ -8862,8 +8862,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-028.json",
+      "imagePageCount": 7
     },
     {
       "name": "တောင်ငူ",
@@ -8876,8 +8876,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-029.json",
+      "imagePageCount": 3
     },
     {
       "name": "တောင်ငူ",
@@ -8890,8 +8890,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-030.json",
+      "imagePageCount": 2
     },
     {
       "name": "တောင်ငူ",
@@ -8904,8 +8904,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-031.json",
+      "imagePageCount": 9
     },
     {
       "name": "တောင်ငူ",
@@ -8918,8 +8918,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-032.json",
+      "imagePageCount": 6
     },
     {
       "name": "တောင်ငူ",
@@ -8932,8 +8932,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-033.json",
+      "imagePageCount": 3
     },
     {
       "name": "တောင်ငူ",
@@ -8946,8 +8946,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-034.json",
+      "imagePageCount": 4
     },
     {
       "name": "တောင်ငူ",
@@ -8960,8 +8960,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-035.json",
+      "imagePageCount": 8
     },
     {
       "name": "တောင်ငူ",
@@ -8974,8 +8974,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-036.json",
+      "imagePageCount": 3
     },
     {
       "name": "တောင်ငူ",
@@ -8988,8 +8988,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-037.json",
+      "imagePageCount": 5
     },
     {
       "name": "တောင်ငူ",
@@ -9002,8 +9002,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-038.json",
+      "imagePageCount": 4
     },
     {
       "name": "တောင်ငူ",
@@ -9016,8 +9016,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-039.json",
+      "imagePageCount": 3
     },
     {
       "name": "တောင်ငူ",
@@ -9030,8 +9030,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-040.json",
+      "imagePageCount": 2
     },
     {
       "name": "ပြည်",
@@ -9044,8 +9044,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-041.json",
+      "imagePageCount": 13
     },
     {
       "name": "ပြည်",
@@ -9058,8 +9058,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-042.json",
+      "imagePageCount": 7
     },
     {
       "name": "ပြည်",
@@ -9072,8 +9072,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-043.json",
+      "imagePageCount": 12
     },
     {
       "name": "ပြည်",
@@ -9086,8 +9086,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-044.json",
+      "imagePageCount": 7
     },
     {
       "name": "ပြည်",
@@ -9100,8 +9100,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-045.json",
+      "imagePageCount": 5
     },
     {
       "name": "ပြည်",
@@ -9114,8 +9114,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-046.json",
+      "imagePageCount": 14
     },
     {
       "name": "ပြည်",
@@ -9128,8 +9128,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-047.json",
+      "imagePageCount": 3
     },
     {
       "name": "ပြည်",
@@ -9142,8 +9142,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-048.json",
+      "imagePageCount": 3
     },
     {
       "name": "ပြည်",
@@ -9156,8 +9156,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-049.json",
+      "imagePageCount": 2
     },
     {
       "name": "ပြည်",
@@ -9170,8 +9170,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-050.json",
+      "imagePageCount": 1
     },
     {
       "name": "ပြည်",
@@ -9184,8 +9184,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-051.json",
+      "imagePageCount": 5
     },
     {
       "name": "ပြည်",
@@ -9198,8 +9198,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-052.json",
+      "imagePageCount": 7
     },
     {
       "name": "ပြည်",
@@ -9212,8 +9212,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-053.json",
+      "imagePageCount": 8
     },
     {
       "name": "ပြည်",
@@ -9226,8 +9226,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-054.json",
+      "imagePageCount": 2
     },
     {
       "name": "ပြည်",
@@ -9240,8 +9240,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-055.json",
+      "imagePageCount": 3
     },
     {
       "name": "ပြည်",
@@ -9254,8 +9254,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-056.json",
+      "imagePageCount": 3
     },
     {
       "name": "သာယာဝတီ",
@@ -9268,8 +9268,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-057.json",
+      "imagePageCount": 6
     },
     {
       "name": "သာယာဝတီ",
@@ -9282,8 +9282,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-058.json",
+      "imagePageCount": 13
     },
     {
       "name": "သာယာဝတီ",
@@ -9296,8 +9296,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-059.json",
+      "imagePageCount": 11
     },
     {
       "name": "သာယာဝတီ",
@@ -9310,8 +9310,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-060.json",
+      "imagePageCount": 4
     },
     {
       "name": "သာယာဝတီ",
@@ -9324,8 +9324,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-061.json",
+      "imagePageCount": 2
     },
     {
       "name": "သာယာဝတီ",
@@ -9338,8 +9338,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-062.json",
+      "imagePageCount": 1
     },
     {
       "name": "သာယာဝတီ",
@@ -9352,8 +9352,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-063.json",
+      "imagePageCount": 9
     },
     {
       "name": "သာယာဝတီ",
@@ -9366,8 +9366,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-064.json",
+      "imagePageCount": 5
     },
     {
       "name": "သာယာဝတီ",
@@ -9380,8 +9380,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-065.json",
+      "imagePageCount": 5
     },
     {
       "name": "သာယာဝတီ",
@@ -9394,8 +9394,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-066.json",
+      "imagePageCount": 1
     },
     {
       "name": "သာယာဝတီ",
@@ -9408,8 +9408,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-067.json",
+      "imagePageCount": 2
     },
     {
       "name": "သာယာဝတီ",
@@ -9422,8 +9422,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-068.json",
+      "imagePageCount": 5
     },
     {
       "name": "သာယာဝတီ",
@@ -9436,8 +9436,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-069.json",
+      "imagePageCount": 2
     },
     {
       "name": "သာယာဝတီ",
@@ -9450,8 +9450,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-070.json",
+      "imagePageCount": 14
     },
     {
       "name": "သာယာဝတီ",
@@ -9464,8 +9464,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-071.json",
+      "imagePageCount": 2
     },
     {
       "name": "သာယာဝတီ",
@@ -9478,8 +9478,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-072.json",
+      "imagePageCount": 3
     },
     {
       "name": "သာယာဝတီ",
@@ -9492,8 +9492,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-073.json",
+      "imagePageCount": 2
     },
     {
       "name": "သာယာဝတီ",
@@ -9506,8 +9506,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-074.json",
+      "imagePageCount": 8
     },
     {
       "name": "သာယာဝတီ",
@@ -9520,8 +9520,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-075.json",
+      "imagePageCount": 3
     },
     {
       "name": "သာယာဝတီ",
@@ -9534,8 +9534,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-076.json",
+      "imagePageCount": 1
     },
     {
       "name": "နတ်တလင်း",
@@ -9548,8 +9548,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-077.json",
+      "imagePageCount": 10
     },
     {
       "name": "နတ်တလင်း",
@@ -9562,8 +9562,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-078.json",
+      "imagePageCount": 5
     },
     {
       "name": "နတ်တလင်း",
@@ -9576,8 +9576,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-079.json",
+      "imagePageCount": 15
     },
     {
       "name": "နတ်တလင်း",
@@ -9590,8 +9590,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-080.json",
+      "imagePageCount": 3
     },
     {
       "name": "နတ်တလင်း",
@@ -9604,8 +9604,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-081.json",
+      "imagePageCount": 6
     },
     {
       "name": "နတ်တလင်း",
@@ -9618,8 +9618,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-082.json",
+      "imagePageCount": 3
     },
     {
       "name": "နတ်တလင်း",
@@ -9632,8 +9632,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-083.json",
+      "imagePageCount": 7
     },
     {
       "name": "နတ်တလင်း",
@@ -9646,8 +9646,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-084.json",
+      "imagePageCount": 3
     },
     {
       "name": "နတ်တလင်း",
@@ -9660,8 +9660,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/bgo.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ပဲခူးတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/bgo/BGO-085.json",
+      "imagePageCount": 12
     },
     {
       "name": "ထားဝယ်",
@@ -9674,8 +9674,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-001.json",
+      "imagePageCount": 13
     },
     {
       "name": "ထားဝယ်",
@@ -9688,8 +9688,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-002.json",
+      "imagePageCount": 1
     },
     {
       "name": "ထားဝယ်",
@@ -9702,8 +9702,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-003.json",
+      "imagePageCount": 1
     },
     {
       "name": "ထားဝယ်",
@@ -9716,8 +9716,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-004.json",
+      "imagePageCount": 2
     },
     {
       "name": "မြိတ်",
@@ -9730,8 +9730,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-005.json",
+      "imagePageCount": 15
     },
     {
       "name": "မြိတ်",
@@ -9744,8 +9744,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-006.json",
+      "imagePageCount": 9
     },
     {
       "name": "မြိတ်",
@@ -9758,8 +9758,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-007.json",
+      "imagePageCount": 21
     },
     {
       "name": "မြိတ်",
@@ -9772,8 +9772,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-008.json",
+      "imagePageCount": 9
     },
     {
       "name": "မြိတ်",
@@ -9786,8 +9786,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-009.json",
+      "imagePageCount": 4
     },
     {
       "name": "မြိတ်",
@@ -9800,8 +9800,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-010.json",
+      "imagePageCount": 3
     },
     {
       "name": "မြိတ်",
@@ -9814,8 +9814,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-011.json",
+      "imagePageCount": 3
     },
     {
       "name": "မြိတ်",
@@ -9828,8 +9828,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-012.json",
+      "imagePageCount": 5
     },
     {
       "name": "မြိတ်",
@@ -9842,8 +9842,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-013.json",
+      "imagePageCount": 5
     },
     {
       "name": "ကော့သောင်း",
@@ -9856,8 +9856,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-014.json",
+      "imagePageCount": 5
     },
     {
       "name": "ကော့သောင်း",
@@ -9870,8 +9870,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-015.json",
+      "imagePageCount": 2
     },
     {
       "name": "ကော့သောင်း",
@@ -9884,8 +9884,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-016.json",
+      "imagePageCount": 1
     },
     {
       "name": "ဘုတ်ပြင်း",
@@ -9898,8 +9898,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/tni.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (တနင်္သာရီတိုင်းဒေသကြီး)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/tni/TNI-017.json",
+      "imagePageCount": 3
     },
     {
       "name": "မြစ်ကြီးနား",
@@ -9912,8 +9912,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/kcn.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကချင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/kcn/KCN-001.json",
+      "imagePageCount": 17
     },
     {
       "name": "မြစ်ကြီးနား",
@@ -9926,8 +9926,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/kcn.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကချင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/kcn/KCN-002.json",
+      "imagePageCount": 12
     },
     {
       "name": "မြစ်ကြီးနား",
@@ -9940,8 +9940,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/kcn.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကချင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/kcn/KCN-003.json",
+      "imagePageCount": 13
     },
     {
       "name": "မြစ်ကြီးနား",
@@ -9954,8 +9954,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/kcn.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကချင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/kcn/KCN-004.json",
+      "imagePageCount": 9
     },
     {
       "name": "မြစ်ကြီးနား",
@@ -9968,8 +9968,8 @@
       "district": null,
       "sourcePage": "https://2026.myanmarexam.org/kcn.html",
       "sourcePageTitle": "၂၀၂၆ တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း (ကချင်ပြည်နယ်)",
-      "imageManifest": null,
-      "imagePageCount": null
+      "imageManifest": "image-manifests/kcn/KCN-005.json",
+      "imagePageCount": 8
     },
     {
       "name": "မြစ်ကြီးနား",
