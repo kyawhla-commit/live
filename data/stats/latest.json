@@ -3,10 +3,49 @@
     "sourcePages": [
       "https://2026.myanmarexam.org/"
     ],
-    "scrapedAt": "2026-08-22T10:42:55.840Z",
-    "yearCount": 0,
-    "documentCount": 0,
-    "mirroredCount": 0
+    "scrapedAt": "2026-08-22T11:03:06.202Z",
+    "yearCount": 1,
+    "documentCount": 5,
+    "mirroredCount": 5
   },
-  "years": []
+  "years": [
+    {
+      "year": "2026",
+      "dataFile": "stats/years/2026.json",
+      "documentCount": 5,
+      "mirroredCount": 5,
+      "documents": [
+        {
+          "id": "2026-01",
+          "order": 1,
+          "title": "အောင်ချက်ရာခိုင်နှုန်း",
+          "fileName": "01.pdf"
+        },
+        {
+          "id": "2026-02",
+          "order": 2,
+          "title": "တစ်နိုင်ငံလုံး ဘာသာတွဲ အလိုက် Top Ten",
+          "fileName": "02.pdf"
+        },
+        {
+          "id": "2026-03",
+          "order": 3,
+          "title": "သိပ္ပံတွဲ Top Ten (ပြည်နယ်နှင့်တိုင်း ဒေသကြီးအလိုက်)",
+          "fileName": "03.pdf"
+        },
+        {
+          "id": "2026-04",
+          "order": 4,
+          "title": "ဝိပ္ပံတွဲ Top Ten (ပြည်နယ်နှင့်တိုင်း ဒေသကြီးအလိုက်)",
+          "fileName": "04.pdf"
+        },
+        {
+          "id": "2026-05",
+          "order": 5,
+          "title": "ဝိဇ္ဇာတွဲ Top Ten (ပြည်နယ်နှင့်တိုင်း ဒေသကြီးအလိုက်)",
+          "fileName": "05.pdf"
+        }
+      ]
+    }
+  ]
 }
